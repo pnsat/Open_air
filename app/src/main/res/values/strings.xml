@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Open_air</string>
+    <string name="txt1">เปิด-ปิดแอร์ในบ้าน</string>
+    <string name="btn1">open</string>
+    <string name="btn2">close</string>
+    <string name="btn3">เปิด compressor</string>
+    <string name="btn4">open</string>
+    <string name="btn5">close</string>
+    <string name="txt2">เปิด-ปิดแอร์นอกบ้าน</string>
+    <string name="btncom">ปิด compresor</string>
+</resources>
